@@ -1,0 +1,11 @@
+{
+  "name": "aisha-futures-daemon",
+  "version": "19.0.0",
+  "description": "Aisha 24x7 Institutional Crypto Futures Auto-Trader Daemon for Render.com",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}

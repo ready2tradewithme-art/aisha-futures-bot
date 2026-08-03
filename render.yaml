@@ -1,0 +1,6 @@
+services:
+  - type: worker
+    name: aisha-futures-daemon
+    env: node
+    buildCommand: npm install
+    startCommand: node index.js
